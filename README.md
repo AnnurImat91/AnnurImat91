@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
 </div>
 
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=AnnurImat91&countColor=%23263759)
 ###
 
 <picture>
